@@ -53,7 +53,7 @@ This would print
 ```js
 {
 	a:'red',
-	b:'green'
+	b:'blue'
 }
 ```
 
