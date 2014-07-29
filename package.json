@@ -1,0 +1,26 @@
+{
+  "name": "merge-concat",
+  "version": "0.0.0",
+  "description": "Merge an array of objects and concatenate values based on a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/merge-concat.git"
+  },
+  "keywords": [
+    "merge",
+    "concatenate"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/merge-concat/issues"
+  },
+  "homepage": "https://github.com/binocarlos/merge-concat",
+  "devDependencies": {
+    "tape": "^2.13.4"
+  }
+}
