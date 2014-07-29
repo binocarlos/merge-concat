@@ -1,6 +1,6 @@
 {
   "name": "merge-concat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Merge an array of objects and concatenate values based on a function",
   "main": "index.js",
   "scripts": {
